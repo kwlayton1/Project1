@@ -1,11 +1,15 @@
 # Project1
 Plots to create:
-1. Bar chart by each animal species and the count for the total data set
-2. When is the best time of day to see a particular animal? (plot animal count by time of day)
-3. XY scatter plot of animal count vs human count
-4. Create a map with animal count by each station (geo api map)
-5. XY scatter plot of animal count vs all of our continuous weather metrics
-6. Day time vs night time
+1. Bar chart by each animal species and the count for the total data set (Jesse)
+2. When is the best time of day to see a particular animal? (plot animal count by time of day) (Richard)
+3. XY scatter plot of animal count vs human count (Jesse)
+
+5. XY scatter plot of animal count vs all of our continuous weather metrics (Charlie)
+6. Look at the categorical weathercode data (Richard)
+7. Day time vs night time (Kat)
+8. Impact of weather on humans hiking (Kat)
+9. Look at animal data seasonally (Charlie)
+10. Create a map with animal count by each station (geo api map)
 
 Requirements
 Completed Analysis Uploaded to GitHub (20 points)
