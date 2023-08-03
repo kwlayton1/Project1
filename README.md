@@ -1,7 +1,10 @@
 # Project1
-Bar chart by each animal species and the count for the total data set:
 
-I started by creating a bar chart of each animal observed in total/overall thoughout all 3 years. From there I split by wild versus urban data. Along with wild versus urban, I also created a bar chart by year and urban/wild by year. Only 7 animals were observed during all 3 years to some degree in an urban and wild setting. With these 7 animals, t-tests were applied to determine if there was any significant difference between the frequency of observations in a wild versus an urban location. From these tests, Elk and Moose were the animals with a significant difference, being observed more frequently in a wild location than an urban one. From here, I located the 5 camera sites these animals were captured the most and recorded them, as they would be good locations to study further as possible wildlife protection areas.
+Primary Animal Data Source:
+
+Wildlife Insights Wasatch data 2018-2020
+
+We created a bar chart of each animal observed in total/overall thoughout all 3 years. From there, it was split by wild versus urban data. Along with wild versus urban, we created a bar chart by year and urban/wild by year. Only 7 animals were observed during all 3 years to some degree in an urban and wild setting. With these 7 animals, t-tests were applied to each to determine if there was any significant difference between the frequency of observations in a wild versus an urban location. From these tests, Elk and Moose were the animals with a significant difference, tested at 90% confidence, being observed more frequently in a wild location than an urban one. From here, we located the 5 camera sites these animals were captured the most and recorded them, as they would be good locations to study further as possible wildlife protection areas.
 
 
 One of the questions that we had with this wildlife data was how does weather impact the behavoir of animals and can we draw any conclusions based on that. In order to answer this question we first had to pull in historical weather data for each of our data points. We decided to look at the mean temperature and the total rain accumulation for each day and compared that to the sum of each animal type seen in that day. Since both of these data points are continous, we were able to genereate scatter plots for every unique animal and do a linear regression for each one. Outlined below are some of the main observations from these plots:
